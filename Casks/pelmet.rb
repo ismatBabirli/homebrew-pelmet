@@ -8,7 +8,7 @@
 # workflow overwrites it with the real DMG checksum.
 cask "pelmet" do
   version "0.1.0"
-  sha256 "0000000000000000000000000000000000000000000000000000000000000000"
+  sha256 "601e99ff7800f7f3d042c2ac8247b904aed257b0a82cccdec08bd911c8dc077e"
 
   url "https://github.com/ismatBabirli/pelmet/releases/download/v#{version}/Pelmet-#{version}.dmg",
       verified: "github.com/ismatBabirli/pelmet/"
