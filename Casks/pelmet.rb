@@ -7,8 +7,8 @@
 # The sha256 below is a placeholder until the first release is cut; the release
 # workflow overwrites it with the real DMG checksum.
 cask "pelmet" do
-  version "0.4.0"
-  sha256 "81a711be20da7926e5907346e77bf8e1db4a78ea597f49ba83a2d8232e10ce6f"
+  version "0.4.1"
+  sha256 "6a126db2e682fc6a8c95f55e45a2eb9f9c9ba1586f57364088c4ae093b1a6781"
 
   url "https://github.com/ismatBabirli/pelmet/releases/download/v#{version}/Pelmet-#{version}.dmg",
       verified: "github.com/ismatBabirli/pelmet/"
